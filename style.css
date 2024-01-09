@@ -23,7 +23,7 @@
     font-size: 20px;
     padding: 6px 22px;
     border-radius: 10px;
-    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .filmesHead i
@@ -34,4 +34,14 @@
 .filmesText span
 {
     color: orange;
+}
+
+.livros
+{
+    margin-top: 20px;
+}
+
+#contact iframe 
+{
+    width: 100%;
 }
